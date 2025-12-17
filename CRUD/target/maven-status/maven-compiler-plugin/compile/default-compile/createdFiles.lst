@@ -1,0 +1,6 @@
+com\abc\crud\CRUD.class
+com\abc\crud\Crud2.class
+com\abc\crud\repoitory\DataBaseConnection.class
+com\abc\crud\service\StudentService.class
+com\abc\crud\entity\Student.class
+com\abc\crud\service\Main.class

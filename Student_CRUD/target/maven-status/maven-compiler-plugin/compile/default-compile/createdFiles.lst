@@ -1,0 +1,6 @@
+com\abc\student_crud\repository\DatabaseConnection.class
+com\abc\student_crud\entity\Student.class
+com\abc\student_crud\controller\studentServlet.class
+com\abc\student_crud\service\StudentService.class
+com\abc\student_crud\JakartaRestConfiguration.class
+com\abc\student_crud\resources\JakartaEE10Resource.class

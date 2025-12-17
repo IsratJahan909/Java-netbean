@@ -1,0 +1,6 @@
+com\abc\employee_crud\controller\Servlet.class
+com\abc\employee_crud\JakartaRestConfiguration.class
+com\abc\employee_crud\repository\DatabaseConnection.class
+com\abc\employee_crud\resources\JakartaEE10Resource.class
+com\abc\employee_crud\service\EmployeeService.class
+com\abc\employee_crud\entity\Employee.class

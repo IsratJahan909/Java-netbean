@@ -1,0 +1,9 @@
+com\abc\jsp_crud\controller\EmpServlet.class
+com\abc\jsp_crud\resources\JakartaEE10Resource.class
+com\abc\jsp_crud\service\DepartmentService.class
+com\abc\jsp_crud\service\EmpService.class
+com\abc\jsp_crud\repository\DatabaseConnection.class
+com\abc\jsp_crud\controller\DepartmentServlet.class
+com\abc\jsp_crud\JakartaRestConfiguration.class
+com\abc\jsp_crud\entity\Department.class
+com\abc\jsp_crud\entity\Emp.class
